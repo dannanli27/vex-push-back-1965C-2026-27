@@ -1,1 +1,1 @@
-Main use of VEX code exist in folder src. Autonomous code, used to score points without human input, are in file autons.cpp. Driving code, using human input, is in main.cpp.
+Main use of VEX code exist in folder src. Autonomous code, used to score points without human input, are in file autons.cpp. Driving code, using human input, is in main.cpp. Extension made is in "Dannan vex extension" folder, used to extract values from site path.jerryio.com in order to develop autonomous code. Various methods in autons.cpp reflect the use of this extension.
